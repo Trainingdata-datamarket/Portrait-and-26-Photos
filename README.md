@@ -69,7 +69,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
-![ezgif-1-12e86765aa](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/535cf835-b911-4be9-b9f8-f50b202d8bf7)
+![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/4cfeff06-8baa-42ec-89a9-726468af4c69)
 
 <a name="link"></a>
 # Links
