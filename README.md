@@ -21,8 +21,6 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 - **Type 3** - mask covers the mouth, but does not cover the nose.
 - **Type 4** - mask is worn correctly, covers the nose and mouth.
 
-![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/5de2ec5f-6915-41b4-a9fc-d2166d8e218e)
-
 ### Data in the dataset
 - People from 18 to 81 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
@@ -33,6 +31,7 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 
 ### People in the dataset
 
+![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/5de2ec5f-6915-41b4-a9fc-d2166d8e218e)
 
 <a name="dist"></a>
 # Distributions
