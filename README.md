@@ -45,10 +45,6 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 
 ![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/b815c775-29df-45df-94b1-9ea3a15a81e7)
 
-### Ethnicity of people in the dataset
-
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/4abe7ff7-cddf-4a90-a484-6ddc9f476fd8)
-
 ### Regions of people in the dataset
 
 ![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/f2f7532f-3d2e-412a-b46b-b45615107878)
@@ -62,12 +58,12 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 
 ### File with the extension .csv
 includes the following information for each media file:
-- **WorkerId**: identifier of the person who provided the media file,
-- **Country**: country of origin of the person,
-- **Age**: age of the person,
-- **Sex**: gender of the person,
-- **Type**: type of media file,
-- **Link**: URL to access the media file
+- **WorkerId**: the identifier of the person who provided the media file,
+- **Age**: the age of the person,
+- **Country**: the country of origin of the person,
+- **Gender**: the gender of the person,
+- **Type**: a unique identifier of a set of 26 media files,
+- **Link**: the URL to access the media file
 
 <a name="getdat"></a>
 # Get the Dataset
