@@ -20,7 +20,6 @@ The dataset consists of **272** sets of images (**7,344** images in total) from 
 - **Profile photo** - a photo that shows the person in profile.
 - **Life photos** - **26** photos from the person's life. 
 
-
 ### Data in the dataset
 - People from 18 to 59 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
@@ -37,24 +36,26 @@ The dataset consists of **272** sets of images (**7,344** images in total) from 
 - There are no sunglasses or medical mask on the face
 - The face is calm, without a smile
 
+![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/0414ebdc-342a-49d7-b388-5b31c571b8dc)
+
 ### People in the dataset
 
-![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/5de2ec5f-6915-41b4-a9fc-d2166d8e218e)
+![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/957315c7-a25e-4e5e-85f6-4dcc7c4a6e83)
 
 <a name="dist"></a>
 # Distributions
 
 ### Gender of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/faee1aca-5bc9-4ff3-855b-127c5abe46b4)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/a3bd3e4f-d3f6-4e34-89f8-277033d03890)
 
 ### Age of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/b815c775-29df-45df-94b1-9ea3a15a81e7)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/c80aa2bc-8d32-4afd-b161-c10163285a7c)
 
-### Regions of people in the dataset
+### Countries of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/f2f7532f-3d2e-412a-b46b-b45615107878)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/a16182fb-d73f-485b-a6d7-ac53e9d7924e)
 
 <a name="cont"></a>
 
@@ -76,7 +77,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
-![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/4cfeff06-8baa-42ec-89a9-726468af4c69)
+![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/4217962c-b764-4466-b026-d5ff4217636c)
 
 <a name="link"></a>
 # Links
