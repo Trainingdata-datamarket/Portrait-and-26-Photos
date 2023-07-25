@@ -26,8 +26,9 @@ The dataset consists of **272** sets of images (**7,344** images in total) from 
 - The portrait photos were mostly collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
 - People provided portrait selfies where the head takes up at least 1/2 of the frame.
-- Distance from the camera is approximately 20-30 centimeters.
 - All life photos are completely different, however all of them show the person from the portrait photo. Images can have additional people on them, can be made at different times of life and in different locations. A person can laugh, wear maske and be surrounded by friends
+
+![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/0414ebdc-342a-49d7-b388-5b31c571b8dc)
 
 ### Mandatory conditions for the profile photo:
 
@@ -35,10 +36,6 @@ The dataset consists of **272** sets of images (**7,344** images in total) from 
 - Shoulder photo
 - There are no sunglasses or medical mask on the face
 - The face is calm, without a smile
-
-![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/0414ebdc-342a-49d7-b388-5b31c571b8dc)
-
-### People in the dataset
 
 ![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/957315c7-a25e-4e5e-85f6-4dcc7c4a6e83)
 
