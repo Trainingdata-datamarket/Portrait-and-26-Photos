@@ -13,21 +13,28 @@ The photographs showcase diverse *gender, age, and ethnic groups, allowing for a
 
 The dataset featuring photos of people wearing medical masks provides a valuable resource for various machine learning and computer vision applications. With its diverse subjects, comprehensive annotations, high image resolution, this dataset encourages advancements in *facial recognition, emotion analysis, and healthcare research, among other potential applications*.
 
-The dataset consists of **75,283** sets of images (**301,132** images in total) from people from **160** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
+The dataset consists of **75,283** sets of images (**301,132** images in total) from people from **160** countries. 
 
-### The dataset includes 4 different types of images:
-- **Type 1** - no mask on the face.
-- **Type 2** - mask is on, but does not cover the nose or mouth.
-- **Type 3** - mask covers the mouth, but does not cover the nose.
-- **Type 4** - mask is worn correctly, covers the nose and mouth.
+### The dataset includes 2 different types of images:
+- **Profile photo** - a photo that shows the person in profile.
+- **Life photos** - **26** photos from the person's life. 
+
 
 ### Data in the dataset
-- People from 18 to 81 years old are presented in the dataset.
+- People from 18 to 59 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
-- The data was mostly collected indoor, however there are also selfies made outdoors.
+- The portrait photos were mostly collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
-- People provided selfies where the head takes up at least 1/2 of the frame.
+- People provided portrait selfies where the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 20-30 centimeters.
+- All life photos are completely different, however all of them show the person from the portrait photo. Images can have additional people on them, can be made at different times of life and in different locations. A person can laugh, wear maske and be surrounded by friends
+
+### Mandatory conditions for the profile photo:
+
+- The person is depicted alone
+- Shoulder photo
+- There are no sunglasses or medical mask on the face
+- The face is calm, without a smile
 
 ### People in the dataset
 
@@ -51,9 +58,9 @@ The dataset consists of **75,283** sets of images (**301,132** images in total) 
 <a name="cont"></a>
 
 # Content
-### The folder **"images"** includes 10 folders:
+### The folder **"images"** includes 14 folders:
 - corresponding to each person in the sample
-- containing of 4 selfies of the individual (*no mask, mask does not cover the nose or mouth, mask covers the mouth, mask covers the nose and mouth*)
+- containing of 27 photos of the individual (*1 portrait photo and 26 photos from daily life*)
 
 ### File with the extension .csv
 includes the following information for each media file:
