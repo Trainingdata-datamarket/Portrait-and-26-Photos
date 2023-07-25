@@ -8,11 +8,11 @@
 <a name="about"></a>
 # About the dataset
 
-The **"Portrait and 26 Photos"** dataset is a comprehensive collection of images showcasing the daily life of individuals, consisting of a personal selfie and 26 accompanying photos captured during various activities. This rich dataset aims to provide researchers, developers, and individuals with a diverse and detailed set of visual information to facilitate the development and improvement of computer vision, machine learning, and pattern recognition algorithms.
+The **"Portrait and 26 Photos"** dataset is a comprehensive collection of images of individuals, consists of a personal selfie and 26 accompanying photos captured during various activities, in different times and conditions. This rich dataset aims to provide researchers, developers, and individuals with a diverse and detailed set of visual information to facilitate the development and improvement of computer vision, machine learning, and pattern recognition algorithms.
 
 The photographs showcase diverse *gender, age, and ethnic groups, allowing for a broad spectrum of representation.*
 
-The selfie and daily life photos dataset offers numerous potential applications, including but not limited to: *facial recognition software training, security verification, emotional analysis, driver identification and other*.
+The selfie and life photos dataset offers numerous potential applications, including but not limited to: *facial recognition software training, reidentification tasks, security verification, emotional analysis, driver identification and other*.
 
 The dataset consists of **272** sets of images (**7,344** images in total) from people from **26** countries. 
 
@@ -59,7 +59,7 @@ The dataset consists of **272** sets of images (**7,344** images in total) from 
 # Content
 ### The folder **"images"** includes 14 folders:
 - corresponding to each person in the sample
-- containing of 27 photos of the individual (*1 portrait photo and 26 photos from daily life*)
+- containing of 27 photos of the individual (*1 portrait photo and 26 photos of the individual from different times and made in different conditions*)
 
 ### File with the extension .csv
 includes the following information for each media file:
